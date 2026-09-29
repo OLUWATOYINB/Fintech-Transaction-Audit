@@ -1,0 +1,101 @@
+Transaction_ID,Customer_Name,Location,Amount_Naira,Channel,Status,Dispute_Logged
+TXN-1000,YUSUF ALI,Ibadan,120000,Web Transfer,Successful,No
+TXN-1001,Aisha Bello,Lagos,5000,USSD,Successful,No
+TXN-1002,Oluwaseun Ajayi,Lagos,85000,Web Transfer,Successful,No
+TXN-1003,Yusuf Ali,lagos,500000,Web Transfer,Successful,No
+TXN-1004,Chioma Nnaji,Ibadan,45000,USSD,Successful,No
+TXN-1005,TUNDE BAKARE,Port Harcourt,200000,Mobile App,Failed,Yes
+TXN-1006,Emeka Obi,Ibadan,85000,Mobile App,Successful,No
+TXN-1007,Yusuf Ali,lagos,45000,POS,Successful,No
+TXN-1008,Blessing Demilade,Lagos,85000,Web Transfer,Failed,Yes
+TXN-1009,Chioma Nnaji,Kano,45000,Mobile App,Successful,No
+TXN-1010,AMARA OKAFOR,Ibadan,350000,Web Transfer,Successful,No
+TXN-1011,Aisha Bello,Lagos,120000,USSD,Successful,No
+TXN-1012,Oluwaseun Ajayi,Ibadan,200000,POS,Failed,Yes
+TXN-1013,Amara Okafor,Ibadan,5000,Mobile App,Successful,No
+TXN-1014,Yusuf Ali,lagos,350000,Web Transfer,Successful,No
+TXN-1015,TUNDE BAKARE,Abuja,45000,POS,Successful,No
+TXN-1016,Oluwaseun Ajayi,Lagos,12500,USSD,Successful,No
+TXN-1017,Blessing Demilade,Lagos,12500,Mobile App,Successful,No
+TXN-1018,Chioma Nnaji,Lagos,200000,Mobile App,Successful,No
+TXN-1019,Yusuf Ali,Kano,5000,USSD,Successful,No
+TXN-1020,CHIOMA NNAJI,Ibadan,200000,Web Transfer,Pending,No
+TXN-1021,Aisha Bello,lagos,12500,Web Transfer,Successful,No
+TXN-1022,Tunde Bakare,Ibadan,12500,Web Transfer,Failed,Yes
+TXN-1023,Tunde Bakare,Lagos,350000,Mobile App,Successful,No
+TXN-1024,Aisha Bello,Ibadan,350000,POS,Successful,No
+TXN-1025,FUNMI ADEBAYO,Port Harcourt,120000,POS,Successful,No
+TXN-1026,Blessing Demilade,Lagos,200000,POS,Successful,No
+TXN-1027,Aisha Bello,Lagos,350000,POS,Successful,No
+TXN-1028,Yusuf Ali,lagos,200000,POS,Successful,No
+TXN-1029,Blessing Demilade,Lagos,45000,Mobile App,Successful,No
+TXN-1030,EMEKA OBI,Ibadan,45000,POS,Successful,No
+TXN-1031,Blessing Demilade,Lagos,85000,USSD,Successful,No
+TXN-1032,Oluwaseun Ajayi,Ibadan,120000,POS,Failed,Yes
+TXN-1033,Amara Okafor,Lagos,120000,POS,Successful,No
+TXN-1034,Blessing Demilade,Lagos,45000,Web Transfer,Failed,Yes
+TXN-1035,YUSUF ALI,lagos,200000,USSD,Successful,No
+TXN-1036,Tunde Bakare,Abuja,12500,Web Transfer,Successful,No
+TXN-1037,Oluwaseun Ajayi,Ibadan,200000,Mobile App,Successful,No
+TXN-1038,Amara Okafor,Lagos,500000,Web Transfer,Failed,Yes
+TXN-1039,Chioma Nnaji,Port Harcourt,45000,POS,Successful,No
+TXN-1040,AISHA BELLO,Ibadan,45000,USSD,Successful,No
+TXN-1041,Yusuf Ali,Lagos,45000,POS,Successful,No
+TXN-1042,Amara Okafor,lagos,200000,Web Transfer,Successful,No
+TXN-1043,Yusuf Ali,Ibadan,5000,Web Transfer,Successful,No
+TXN-1044,Oluwaseun Ajayi,Lagos,500000,POS,Successful,No
+TXN-1045,OLUWASEUN AJAYI,Lagos,120000,POS,Successful,No
+TXN-1046,Ibrahim Musa,Ibadan,120000,Mobile App,Successful,No
+TXN-1047,Blessing Demilade,Lagos,85000,Mobile App,Successful,No
+TXN-1048,Tunde Bakare,Ibadan,5000,USSD,Successful,No
+TXN-1049,Yusuf Ali,Abuja,5000,Mobile App,Successful,No
+TXN-1050,TUNDE BAKARE,Lagos,85000,Web Transfer,Successful,No
+TXN-1051,Ibrahim Musa,Ibadan,12500,POS,Successful,No
+TXN-1052,Funmi Adebayo,Lagos,45000,USSD,Successful,No
+TXN-1053,Aisha Bello,Ibadan,120000,USSD,Successful,No
+TXN-1054,Tunde Bakare,Lagos,5000,USSD,Pending,No
+TXN-1055,AMARA OKAFOR,lagos,500000,Mobile App,Failed,Yes
+TXN-1056,Oluwaseun Ajayi,Ibadan,45000,Mobile App,Successful,No
+TXN-1057,Oluwaseun Ajayi,Lagos,12500,USSD,Successful,No
+TXN-1058,Chioma Nnaji,Lagos,120000,Web Transfer,Pending,No
+TXN-1059,Tunde Bakare,Port Harcourt,85000,POS,Successful,No
+TXN-1060,BLESSING DEMILADE,Ibadan,45000,USSD,Successful,No
+TXN-1061,Blessing Demilade,Lagos,45000,POS,Pending,No
+TXN-1062,Chioma Nnaji,lagos,5000,POS,Successful,No
+TXN-1063,Yusuf Ali,Lagos,120000,Web Transfer,Successful,No
+TXN-1064,Blessing Demilade,Ibadan,85000,USSD,Failed,Yes
+TXN-1065,IBRAHIM MUSA,Lagos,12500,Mobile App,Successful,No
+TXN-1066,Oluwaseun Ajayi,Ibadan,5000,POS,Successful,No
+TXN-1067,Blessing Demilade,Lagos,350000,Mobile App,Successful,No
+TXN-1068,Tunde Bakare,Lagos,120000,Web Transfer,Successful,No
+TXN-1069,Aisha Bello,lagos,200000,Web Transfer,Successful,No
+TXN-1070,CHIOMA NNAJI,Ibadan,85000,Mobile App,Successful,No
+TXN-1071,Yusuf Ali,Lagos,350000,USSD,Failed,Yes
+TXN-1072,Ibrahim Musa,Ibadan,85000,POS,Successful,No
+TXN-1073,Funmi Adebayo,Lagos,85000,USSD,Successful,No
+TXN-1074,Oluwaseun Ajayi,Kano,120000,POS,Successful,No
+TXN-1075,FUNMI ADEBAYO,Ibadan,12500,Web Transfer,Pending,No
+TXN-1076,Aisha Bello,Lagos,120000,USSD,Failed,Yes
+TXN-1077,Tunde Bakare,lagos,85000,USSD,Successful,No
+TXN-1078,Aisha Bello,Ibadan,5000,POS,Successful,No
+TXN-1079,Tunde Bakare,Lagos,45000,Web Transfer,Failed,Yes
+TXN-1080,EMEKA OBI,Ibadan,500000,POS,Successful,No
+TXN-1081,Emeka Obi,Lagos,120000,POS,Successful,No
+TXN-1082,Ibrahim Musa,Lagos,12500,USSD,Successful,No
+TXN-1083,Ibrahim Musa,lagos,45000,Mobile App,Successful,No
+TXN-1084,Yusuf Ali,Ibadan,200000,USSD,Successful,No
+TXN-1085,AISHA BELLO,Lagos,12500,POS,Successful,No
+TXN-1086,Tunde Bakare,Ibadan,45000,Web Transfer,Successful,No
+TXN-1087,Funmi Adebayo,Lagos,5000,Web Transfer,Successful,No
+TXN-1088,Blessing Demilade,Lagos,45000,POS,Successful,No
+TXN-1089,Oluwaseun Ajayi,Kano,120000,Mobile App,Successful,No
+TXN-1090,OLUWASEUN AJAYI,Ibadan,350000,Web Transfer,Successful,No
+TXN-1091,Chioma Nnaji,Lagos,500000,POS,Pending,No
+TXN-1092,Yusuf Ali,Lagos,85000,Mobile App,Successful,No
+TXN-1093,Yusuf Ali,lagos,5000,Mobile App,Successful,No
+TXN-1094,Funmi Adebayo,Ibadan,85000,Web Transfer,Successful,No
+TXN-1095,TUNDE BAKARE,Lagos,5000,USSD,Successful,No
+TXN-1096,Oluwaseun Ajayi,Ibadan,45000,USSD,Successful,No
+TXN-1097,Aisha Bello,Lagos,350000,POS,Successful,No
+TXN-1098,Oluwaseun Ajayi,Lagos,12500,Web Transfer,Successful,No
+TXN-1099,Yusuf Ali,lagos,5000,USSD,Successful,No
